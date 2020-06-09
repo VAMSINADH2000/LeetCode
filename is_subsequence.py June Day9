@@ -9,3 +9,4 @@ class Solution:
             if i == len(s):
                 return True
         return False
+Explanation:https://codetoskill.blogspot.com/2020/06/is-subsequence-leetcode-challenge-june.html
